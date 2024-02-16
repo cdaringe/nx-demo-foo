@@ -1,0 +1,8 @@
+{
+  "name": "foo",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/foo/src",
+  "projectType": "library",
+  "targets": {},
+  "tags": []
+}
